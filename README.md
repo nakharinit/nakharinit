@@ -28,10 +28,10 @@ more at [my website](https://www.nakharin.in.th).
 ## 📊 My GitHub Stats
 
 <a href="https://github.com/nakharinit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chokunplayz&theme=github_dark" alt="ChokunPlayZ's GitHub Stats" height="230"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nakharinit&theme=github_dark" alt="Nakharin's GitHub Stats" height="230"/>
 </a>
 
 <a href="https://github.com/nakharinit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chokunplayz&theme=github_dark" height="230"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakharinit&theme=github_dark" height="230"/>
 </a>
 
