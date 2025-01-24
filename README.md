@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @nakharinit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hey 👋🏻,
 
-<!---
-nakharinit/nakharinit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a self-taught fullstack engineer from Thailand🇹🇭. I'm currently pursuing infrastructure and network engineering, to create powerful, secure, reliable infrastructure
+
+## 📜 Mainly used Languages
+PHP, JavaScript, TypeScript, C, and Python.
+
+## 🧰 Tools I've used
+#### 💼Management Softwares
+- 📦DirectAdmin, Plesk ,cPanel & WHM
+- 🖥Docker, QEMU/KVM, VMware vSphere (RIP)
+#### 📚 Databases
+- MySQL, MongoDB
+
+more at [my website](https://ckl.moe).
+
+## ⚒ Hobbies
+- 3D Printing
+- Photogaphy 📷
+- Coding
+- Homelabbing
+
+## 📬 Socials
+
+- Web: [#][1]
+- Twitter: [twitter/#][2]
+- YouTube: [#][3]
+
+## 📊 My GitHub Stats
+
+<a href="https://github.com/nakharinit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chokunplayz&theme=github_dark" alt="ChokunPlayZ's GitHub Stats" height="230"/>
+</a>
+
+<a href="https://github.com/nakharinit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chokunplayz&theme=github_dark" height="230"/>
+</a>
+
