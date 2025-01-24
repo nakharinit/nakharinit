@@ -12,7 +12,7 @@ PHP, JavaScript, TypeScript, C, and Python.
 #### 📚 Databases
 - MySQL, MongoDB
 
-more at [my website](https://ckl.moe).
+more at [my website](https://www.nakharin.in.th).
 
 ## ⚒ Hobbies
 - 3D Printing
