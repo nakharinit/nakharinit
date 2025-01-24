@@ -15,7 +15,6 @@ PHP, JavaScript, TypeScript, C, and Python.
 more at [my website](https://www.nakharin.in.th).
 
 ## ⚒ Hobbies
-- 3D Printing
 - Photogaphy 📷
 - Coding
 - Homelabbing
